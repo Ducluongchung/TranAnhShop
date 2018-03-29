@@ -1,0 +1,6 @@
+D:\tedu\TranAnhShop\TranAnhShop.Common\bin\Debug\TranAnhShop.Common.dll
+D:\tedu\TranAnhShop\TranAnhShop.Common\bin\Debug\TranAnhShop.Common.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Common\obj\Debug\TranAnhShop.Common.csprojResolveAssemblyReference.cache
+D:\tedu\TranAnhShop\TranAnhShop.Common\obj\Debug\TranAnhShop.Common.csproj.CoreCompileInputs.cache
+D:\tedu\TranAnhShop\TranAnhShop.Common\obj\Debug\TranAnhShop.Common.dll
+D:\tedu\TranAnhShop\TranAnhShop.Common\obj\Debug\TranAnhShop.Common.pdb

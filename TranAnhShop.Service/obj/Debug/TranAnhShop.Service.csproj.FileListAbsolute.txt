@@ -1,0 +1,15 @@
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Service.dll
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Service.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Common.dll
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Data.dll
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Model.dll
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Common.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Data.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Data.dll.config
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Model.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Service\bin\Debug\TranAnhShop.Model.dll.config
+D:\tedu\TranAnhShop\TranAnhShop.Service\obj\Debug\TranAnhShop.Service.csprojResolveAssemblyReference.cache
+D:\tedu\TranAnhShop\TranAnhShop.Service\obj\Debug\TranAnhShop.Service.csproj.CoreCompileInputs.cache
+D:\tedu\TranAnhShop\TranAnhShop.Service\obj\Debug\TranAnhShop.Service.csproj.CopyComplete
+D:\tedu\TranAnhShop\TranAnhShop.Service\obj\Debug\TranAnhShop.Service.dll
+D:\tedu\TranAnhShop\TranAnhShop.Service\obj\Debug\TranAnhShop.Service.pdb

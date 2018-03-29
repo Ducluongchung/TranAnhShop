@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranAnhShop.UnitTest", "Tra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranAnhShop.Wed", "TranAnhShop.Wed\TranAnhShop.Wed.csproj", "{404970A4-0A0C-413B-95C9-96FFF8B35A4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranAnhShop.Data", "TranAnhShop.Data\TranAnhShop.Data.csproj", "{3BAB5C8E-A765-4F3A-8BC3-8054A6920907}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{404970A4-0A0C-413B-95C9-96FFF8B35A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{404970A4-0A0C-413B-95C9-96FFF8B35A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{404970A4-0A0C-413B-95C9-96FFF8B35A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAB5C8E-A765-4F3A-8BC3-8054A6920907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAB5C8E-A765-4F3A-8BC3-8054A6920907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAB5C8E-A765-4F3A-8BC3-8054A6920907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAB5C8E-A765-4F3A-8BC3-8054A6920907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -221,6 +221,24 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TranAnhShop.Common\TranAnhShop.Common.csproj">
+      <Project>{e5bb5a08-831b-4805-b7ec-bb5d1adc5f61}</Project>
+      <Name>TranAnhShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Data\TranAnhShop.Data.csproj">
+      <Project>{3bab5c8e-a765-4f3a-8bc3-8054a6920907}</Project>
+      <Name>TranAnhShop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Model\TranAnhShop.Model.csproj">
+      <Project>{41e57fbf-d9e8-4fa4-ac97-84a5fe77c2af}</Project>
+      <Name>TranAnhShop.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Service\TranAnhShop.Service.csproj">
+      <Project>{1344897b-0c23-4033-a9b0-66c6a407f451}</Project>
+      <Name>TranAnhShop.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

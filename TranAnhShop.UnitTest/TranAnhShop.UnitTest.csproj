@@ -53,6 +53,28 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TranAnhShop.Common\TranAnhShop.Common.csproj">
+      <Project>{e5bb5a08-831b-4805-b7ec-bb5d1adc5f61}</Project>
+      <Name>TranAnhShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Data\TranAnhShop.Data.csproj">
+      <Project>{3bab5c8e-a765-4f3a-8bc3-8054a6920907}</Project>
+      <Name>TranAnhShop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Model\TranAnhShop.Model.csproj">
+      <Project>{41e57fbf-d9e8-4fa4-ac97-84a5fe77c2af}</Project>
+      <Name>TranAnhShop.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Service\TranAnhShop.Service.csproj">
+      <Project>{1344897b-0c23-4033-a9b0-66c6a407f451}</Project>
+      <Name>TranAnhShop.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TranAnhShop.Wed\TranAnhShop.Wed.csproj">
+      <Project>{404970a4-0a0c-413b-95c9-96fff8b35a4c}</Project>
+      <Name>TranAnhShop.Wed</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

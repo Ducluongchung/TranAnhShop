@@ -1,0 +1,12 @@
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\TranAnhShop.Model.dll
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\TranAnhShop.Model.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Model\obj\Debug\TranAnhShop.Model.csprojResolveAssemblyReference.cache
+D:\tedu\TranAnhShop\TranAnhShop.Model\obj\Debug\TranAnhShop.Model.csproj.CoreCompileInputs.cache
+D:\tedu\TranAnhShop\TranAnhShop.Model\obj\Debug\TranAnhShop.Model.dll
+D:\tedu\TranAnhShop\TranAnhShop.Model\obj\Debug\TranAnhShop.Model.pdb
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\TranAnhShop.Model.dll.config
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\EntityFramework.dll
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\EntityFramework.xml
+D:\tedu\TranAnhShop\TranAnhShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\tedu\TranAnhShop\TranAnhShop.Model\obj\Debug\TranAnhShop.Model.csproj.CopyComplete
